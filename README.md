@@ -1,1 +1,1 @@
-# Terraform-Script-Swiggy-App
+# Terraform-Script-Swiggy-Application
