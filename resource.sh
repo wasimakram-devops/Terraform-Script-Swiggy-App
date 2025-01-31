@@ -28,5 +28,5 @@ sudo apt-get update
 sudo apt-get install trivy -y
 
 # install update & Upgrade
-sudo apt update 
+sudo apt update -y
 sudo apt upgrade -y
